@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ian K. Hou
+Currently crushing bugs 🪳❌
+Contact me via ian@ianhou.dev for a copy of my resume.
 
 <!--
 **iankhou/iankhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
