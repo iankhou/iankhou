@@ -1,5 +1,5 @@
 ### Ian K. Hou
-Currently crushing bugs 🪳❌
+Currently crushing bugs 🪳❌  
 Contact me via ian@ianhou.dev for a copy of my resume.
 
 <!--
