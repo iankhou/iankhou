@@ -1,7 +1,7 @@
 ### Ian K. Hou
 Status: Currently crushing bugs 🪳❌  
 Working on an online version of LuZhanQi in collaboration with @fireteam99, a strategic Chinese board game that roughly translates to "Army chess." Check out our [beta deployment](https://luzhanqi.netlify.app).  
-Contact me via ian@ianhou.dev for a copy of my resume.
+Contact me via ian98hou@gmail.com for a copy of my resume.
 
 <!--
 **iankhou/iankhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
