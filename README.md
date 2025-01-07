@@ -1,6 +1,7 @@
 ### Ian K. Hou
 Currently working on an online version of 陸戰棋 (LuZhanQi) in collaboration with @fireteam99, a strategic Chinese board game that roughly translates to "Army chess." Check out our [alpha deployment](https://luzhanqi-staging.netlify.app). Source repos [here](https://github.com/chinese-board-games). Reach out if you're interested in collaborating!
-Contact me via ian98hou@gmail.com for a copy of my resume.
+
+Contact me via ian98hou@gmail.com.
 
 ![image](https://github.com/iankhou/iankhou/assets/45278651/940f35f2-57fd-4339-80c4-c8eaaefdceb8)
 
