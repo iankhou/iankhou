@@ -3,7 +3,7 @@ New engineer at AWS CDK Core team 🧑‍🔧
 
 Currently working on an online version of 陸戰棋 (LuZhanQi) in collaboration with @fireteam99, a strategic Chinese board game that roughly translates to "Army chess." ~~🚧 Check out our [alpha deployment](https://luzhanqi-staging.netlify.app). 🚧~~ 
 
-The alpha delpoyment is down, Heroku money ran out :(
+The alpha deployment is down, Heroku money ran out :(
 
 Source repos [here](https://github.com/chinese-board-games). Reach out if you're interested in collaborating!
 
