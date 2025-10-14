@@ -11,6 +11,8 @@ Contact me via me@ianhou.dev.
 
 ![image](https://github.com/iankhou/iankhou/assets/45278651/940f35f2-57fd-4339-80c4-c8eaaefdceb8)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iankhou&show_icons=true&hide_border=true&hide_title=true)
+
 
 <!--
 **iankhou/iankhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
