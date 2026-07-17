@@ -3,9 +3,6 @@ Engineer on the AWS CDK Core team 🧑‍🔧
 
 Contact me via me@ianhou.dev.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iankhou&show_icons=true&hide_border=true&hide_title=true)
-
-
 <!--
 **iankhou/iankhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
